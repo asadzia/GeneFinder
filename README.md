@@ -1,3 +1,3 @@
 # GeneFinder
 
-A Gene Finding application from a DNA code.
+A Light Gene Finding application from a DNA code.
